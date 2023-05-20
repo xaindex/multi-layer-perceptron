@@ -1,5 +1,4 @@
-Neural Network Toolbox
-======================
+## Multi-layer Perceptron
 
 This repository contains neural networks implemented in Theano. Theano is a great optimization library that can compile
 functions and their gradients. It can also harness the GPU processing power if Theano is configured correctly.
@@ -9,10 +8,5 @@ can have different layers and update rules, initializing them is just a bit more
 
 `examples.py` shows how to initialize a classification and a regression model and train them on different datasets.
 
-
-References
-==========
-
-* https://github.com/Theano/Theano
-* https://github.com/HIPS/autograd
-* https://github.com/scikit-learn/scikit-learn
+## Contact
+Feel free to contact us if there is any question (tech@xaindex.ai).
